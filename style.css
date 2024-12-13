@@ -1,0 +1,124 @@
+.nav-link:link {
+    font-family: "Parkinsans", sans-serif; /* nav link fonts */
+    font-size: 30px; 
+    align-items: end;
+}
+
+.nav-link:visited {
+    color: #00506D;
+}
+
+.nav-link:hover {
+    color: #AD9BAA;
+}
+
+.bg-custom {
+    background-color: #EDEED9;
+    background-position: center center;
+}
+
+
+
+h1 {
+    font-family: "Julius Sans One", sans-serif;
+    font-weight: 400;
+    font-size: 110px;
+    font-style: normal;
+    color: #EDEED9;
+    
+}
+
+h2 {
+    font-size: 50px;
+    font-family: "Playfair", serif;
+    color: #EDEED9;
+}
+
+h3 {
+    font-size: 100px;
+    font-family: "Playfair", serif;
+    color: #EDEED9;
+}
+
+.im1 {
+    margin-top: 10%;
+}
+
+.im2 {
+    margin-top: 1%;
+}
+
+p {
+    font-family: "Lato", serif;
+    font-size: 17px;
+    color: #EDEED9;
+    font-weight: 400;
+    font-style:bold;
+}
+
+.carousel slide {
+
+    width: 48.5%; /* Adjust width as needed */
+  
+  }
+
+
+h4 {
+    margin-top: 5%;
+    font-size: 30px;
+    font-family: "Lato", serif;
+    color: #EDEED9;
+    font-weight: 400;
+    font-style:bold;
+}
+
+h5 {
+    font-size: 70px;
+    font-family: "Playfair", serif;
+    color: #00506D;
+    font-weight: 400;
+}
+
+li {
+    font-family: "Lato", serif;
+    font-size: 17px;
+    color: #EDEED9;
+    font-weight: 400;
+    font-style:bold;
+}
+
+.footer {
+    background-color:#00506D;
+    size: 10px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+  .center2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    height: 315;
+  }
+
+  .center3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+
+  .center4 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+  }
+
+
